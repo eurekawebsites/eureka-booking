@@ -2,11 +2,11 @@
 
 Configurable booking-request core and sales demo for Eureka Websites Tech.
 
-Public demo after GitHub Pages is enabled: https://eurekawebsites.github.io/eureka-booking/
+Public demo: https://eureka-booking.web.app/
 
-Mexico offer: https://eurekawebsites.github.io/eureka-booking/rescate-48h.html
+Mexico offer: https://eureka-booking.web.app/rescate-48h.html
 
-US offer: https://eurekawebsites.github.io/eureka-booking/booking-rescue.html
+US offer: https://eureka-booking.web.app/booking-rescue.html
 
 ## V1 supports
 - Multiple demo business configurations from one shared core
